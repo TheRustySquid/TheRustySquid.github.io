@@ -19,4 +19,9 @@ noBtn.addEventListener("mouseover", () => {
 
   noBtn.style.left = randomX + "px";
   noBtn.style.top = randomY + "px";
+
+  yesBtn.style.transform = "scale(1.1)";
+  setTimeout(() => {
+    yesBtn.style.transform = "scale(1)";
+  }, 200);
 });
