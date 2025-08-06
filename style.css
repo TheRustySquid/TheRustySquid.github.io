@@ -49,7 +49,7 @@ button {
   
 button:nth-child(1){
   margin-left: -200px;
-  background: #e94d58;
+  background: white;
 }
 button:nth-child(2){
   margin-right: -200px;
