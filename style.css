@@ -48,6 +48,7 @@ button {
 button:nth-child(1) {
     margin-left: -200px;
     background: #e94d58;
+    color: white;
 }
 button:nth-child(2) {
     margin-right: -200px;
