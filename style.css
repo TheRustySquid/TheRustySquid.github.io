@@ -55,3 +55,7 @@ button:nth-child(2) {
     background: white;
     color: #e94d58;
 }
+.yes-btn {
+    transition: transform 0.2s ease;
+}
+
